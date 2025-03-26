@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+    <title>Blog de Rocket League</title>
+    <link>https://joselu83.github.io/a5-a3-joseluismateossantana/web-rss/blog/index.html</link>
+    <description>Artículos sobre Rocket League</description>
+
+    <item>
+        <title>Consejos para principiantes</title>
+        <link>https://joselu83.github.io/a5-a3-joseluismateossantana/web-rss/blog/posts/post1.html</link>
+        <description>Aprende lo básico</description>
+        <pubDate>Wed, 26 Mar 2025 16:30:00 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>Sistema de calificación</title>
+        <link>https://joselu83.github.io/a5-a3-joseluismateossantana/web-rss/blog/posts/post2.html</link>
+        <description>Explicación de los rangos y puntos MMR</description>
+        <pubDate>Wed, 26 Mar 2025 16:30:00 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>Mejores jugadores RLCS</title>
+        <link>https://joselu83.github.io/a5-a3-joseluismateossantana/web-rss/blog/posts/post3.html</link>
+        <description>Los mejores: Zen, Vatira y Monkey Moon</description>
+        <pubDate>Wed, 26 Mar 2025 16:30:00 GMT</pubDate>
+    </item>
+</channel>
+
+</rss>
