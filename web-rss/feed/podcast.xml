@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Podcast de Rocket League</title>
+    <description>Podcast con jugadores profesionales de Rocket League</description>
+    <link>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/</link>
+    
+    <item>
+      <title>Episodio 1: Zen</title>
+      <description>Descubre como "Zen", un niño de 16 años ha cambiado la historia de Rocket League</description>
+      <enclosure 
+        url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3"
+        type="audio/mpeg"
+        length="1182033"
+      />
+      <link>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/</link>
+      <guid>episodio1</guid>
+      <pubDate>Wed, 26 Mar 2025 22:10:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Episodio 2: Vatira</title>
+      <description>Aprende los secretos del mejor defensa actualmente</description>
+      <enclosure 
+        url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3"
+        type="audio/mpeg"
+        length="768671"
+      />
+      <link>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/</link>
+      <guid>episodio2</guid>
+      <pubDate>Wed, 26 Mar 2025 22:10:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Episodio 3: Monkey Moon</title>
+      <description>La revelacion del año en nuestro podcast!</description>
+      <enclosure 
+        url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3"
+        type="audio/mpeg"
+        length="367849"
+      />
+      <link>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/</link>
+      <guid>episodio3</guid>
+      <pubDate>Wed, 26 Mar 2025 22:10:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
