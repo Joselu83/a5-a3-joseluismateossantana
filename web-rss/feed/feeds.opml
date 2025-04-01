@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
     <head>
-        <title>Rocket League - José Luis Mateos Santana</title>
+        <title>Rocket League - Jose Luis Mateos Santana</title>
     </head>
     <body>
         <outline text="Blog de Rocket League" title="Blog de Rocket League" type="rss" xmlUrl="https://joselu83.github.io/a5-a3-joseluismateossantana/web-rss/feed/rss.xml" htmlUrl="https://joselu83.github.io/a5-a3-joseluismateossantana/web-rss/blog"/>
