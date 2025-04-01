@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Rocket League - José Luis Mateos Santana</title>
+    </head>
+    <body>
+        <outline text="Blog PrimeView" title="Blog Prime" type="rss" xmlUrl="https://joselu83.github.io/a5-a3-joseluismateossantana/web-rss/feed/rss.xml" htmlUrl="https://joselu83.github.io/a5-a3-joseluismateossantana/web-rss/blog"/>
+        <outline text="Podcast PrimeView" title="Podcast Prime" type="rss" xmlUrl="https://joselu83.github.io/a5-a3-joseluismateossantana/web-rss/feed/podcast.xml" htmlUrl="https://joselu83.github.io/a5-a3-joseluismateossantana/web-rss/podcast"/>
+    </body>
+</opml>
