@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
   <channel>
+  <atom:link href="https://joselu83.github.io/a5-a3-joseluismateossantana/web-rss/feed/podcast.xml" rel="self" type="application/rss+xml" />
     <title>Podcast de Rocket League</title>
     <description>Podcast con jugadores profesionales de Rocket League</description>
     <link>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/</link>
@@ -15,7 +17,7 @@
       />
       <link>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/</link>
       <pubDate>Wed, 26 Mar 2025 22:10:00 GMT</pubDate>
-      <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/</guid>
+      <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3</guid>
     </item>
 
     <item>
@@ -28,7 +30,7 @@
       />
       <link>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/</link>
       <pubDate>Wed, 26 Mar 2025 22:10:00 GMT</pubDate>
-      <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/</guid>
+      <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3</guid>
     </item>
 
     <item>
@@ -41,7 +43,7 @@
       />
       <link>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/</link>
       <pubDate>Wed, 26 Mar 2025 22:10:00 GMT</pubDate>
-      <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/</guid>
+      <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3</guid>
     </item>
   </channel>
 </rss>
